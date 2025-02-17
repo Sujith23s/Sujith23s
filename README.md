@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Sujith
-   I'm a passionate about coding, problem-solving, and building impactful software. Always exploring new technologies and pushing the boundaries of innovation.
+   I'm a passionate about coding, problem-solving, and building impactful software. And always exploring new technologies and pushing the boundaries of innovation.
 
 ## Frontend Technologies
 <div class="inline">
