@@ -16,6 +16,11 @@ Hi I am Sujith
   <img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
 </div>
 
+## Programming Langunages
+<div>
+  <img width="48" height="48" src="https://img.icons8.com/color/50/python.png" alt="python"/>
+</div>
+
 ## Tools
 <div class="inline">
 <img width="48" height="48" display="inline" src="https://img.icons8.com/fluency/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
